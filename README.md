@@ -25,6 +25,13 @@ Due to limited amount of time, there are many things that I wanted to, but didn'
 
 Other updates will be posted here as well. Please consider that since this app has been made pretty quickly, there might be some existing bugs that I've not yet noticed so I'd be appreative if I'd get some feedback from you guys.
 
+PS: special thanks to entire NANO community on Discord development during this NANO build off as they were there to help and answer my questions whenever I needed help.
+
+I'd like to single out users: bbedward and Dotcom.
+
+They helped me understand NANO protocol much better and answered so many of my questions and I really can't thank them enough.
+
+
 Examples of Usage with UI
 
 ![Screenshot_20200605-1004145](https://user-images.githubusercontent.com/66439637/83856185-79efc880-a719-11ea-869b-461ac24a6ed6.jpg)
