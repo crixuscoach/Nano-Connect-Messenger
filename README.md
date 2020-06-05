@@ -26,13 +26,16 @@ Due to limited amount of time, there are many things that I wanted to, but didn'
 Other updates will be posted here as well. Please consider that since this app has been made pretty quickly, there might be some existing bugs that I've not yet noticed so I'd be appreative if I'd get some feedback from you guys.
 
 Examples of Usage with UI
-![Screenshot_20200605-100445](https://user-images.githubusercontent.com/66439637/83855065-d9e56f80-a717-11ea-87f8-b46270bf4181.jpg)
 
-![Screenshot_20200605-100531](https://user-images.githubusercontent.com/66439637/83855072-dce06000-a717-11ea-8170-f07a7825b3ae.jpg)
+![Screenshot_20200605-1004145](https://user-images.githubusercontent.com/66439637/83856185-79efc880-a719-11ea-869b-461ac24a6ed6.jpg)
 
-![Screenshot_20200605-100809](https://user-images.githubusercontent.com/66439637/83855087-e36ed780-a717-11ea-9df9-b9ca15443a09.jpg)
+![Screenshot_20200605-1005311](https://user-images.githubusercontent.com/66439637/83856186-7a885f00-a719-11ea-95d2-a88dcb891525.jpg)
 
-![Screenshot_20200605-100817](https://user-images.githubusercontent.com/66439637/83855094-e7025e80-a717-11ea-9f78-58f69317baaa.jpg)
+![Screenshot_20200605-1007109](https://user-images.githubusercontent.com/66439637/83856188-7a885f00-a719-11ea-91c5-32b867a01cc9.jpg)
 
-![Screenshot_20200605-101613](https://user-images.githubusercontent.com/66439637/83855102-e8cc2200-a717-11ea-9c01-a684b33d1d2f.jpg)
+User interface
+![Screenshot_20200605-1008109](https://user-images.githubusercontent.com/66439637/83856191-7b20f580-a719-11ea-8ba9-ea9e5080149c.jpg)
 
+![Screenshot_20200605-1008117](https://user-images.githubusercontent.com/66439637/83856193-7b20f580-a719-11ea-8c6e-2d139a3a45d5.jpg)
+
+![Screenshot_20200605-1016131](https://user-images.githubusercontent.com/66439637/83856181-78be9b80-a719-11ea-8939-204c5d64b1f0.jpg)
